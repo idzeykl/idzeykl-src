@@ -1,1 +1,0 @@
-Необходимо добавить ..\IdzeyKL\cmake-build-debug в переменную среды и в дальнейшем использовать idzeykl "fileName.idzey" в консоли
